@@ -1,6 +1,6 @@
 # Invoice System in Google Docs
 This is an invoice system I wrote and maintained in 2012-2014. Written in Google Apps Script (JavaScript cloud framework). There were many interesting functions, like:
-• custom menu in Google Docs
+\n• custom menu in Google Docs
 • creating pre-invoices and invoices from templates
 • printing into PDF
 • input popup forms
